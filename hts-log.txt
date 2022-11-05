@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 05 Nov 2022 19:39:59 at https://thefishsite.com/articles/fishing-industry-launched-online +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thefishsite.com/articles/fishing-industry-launched-online -O1 "C:\My Web Sites\bitm27" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:43:22	Error: 	"Too Many Requests" (429) at link https://images.thefishsite.com/fish/hub-backgrounds/petri-dish.jpg?grayscale=true&scale.width=520&scale.height=200&scale.option=fill&crop.width=520&crop.height=200&crop.y=center&crop.x=center (from https://thefishsite.com/assets/css/main-fish.css?t=20201027)
+19:43:22	Error: 	"Too Many Requests" (429) at link https://images.thefishsite.com/fish/hub-backgrounds/petri-dish.jpg?grayscale=true&scale.width=960&scale.height=200&scale.option=fill&crop.width=960&crop.height=200&crop.y=center&crop.x=center (from https://thefishsite.com/assets/css/main-fish.css?t=20201027)
+19:43:22	Error: 	"Too Many Requests" (429) at link https://images.thefishsite.com/fish/tilapia-event/tilapia-event-background-02.jpg?grayscale=true (from https://thefishsite.com/assets/css/main-fish.css?t=20201027)
+19:43:22	Error: 	"Too Many Requests" (429) at link https://images.thefishsite.com/sponsors/wraps/phileo-tilapia-22/sea-cages.jpg (from https://thefishsite.com/assets/css/main-fish.css?t=20201027)
+19:43:22	Error: 	"Too Many Requests" (429) at link https://images.thefishsite.com/sponsors/wraps/phileo-tilapia-22/stretchy-boy.jpg (from https://thefishsite.com/assets/css/main-fish.css?t=20201027)
+19:43:22	Error: 	"Too Many Requests" (429) at link https://images.thefishsite.com/sponsors/wraps/phileo-tilapia-22/golden-boy.jpg (from https://thefishsite.com/assets/css/main-fish.css?t=20201027)
+19:43:22	Error: 	"Too Many Requests" (429) at link https://images.thefishsite.com/sponsors/wraps/phileo-tilapia-22/golden-boy-sm.jpg (from https://thefishsite.com/assets/css/main-fish.css?t=20201027)
+19:43:22	Error: 	"Too Many Requests" (429) at link https://images.thefishsite.com/sponsors/wraps/phileo-tilapia-22/golden-boy-inline.jpg (from https://thefishsite.com/assets/css/main-fish.css?t=20201027)
+19:43:22	Error: 	"Not Found" (404) at link https://thefishsite.com/articles/popover.css (from https://embed.typeform.com/next/embed.js)
+19:43:22	Error: 	"Not Found" (404) at link https://thefishsite.com/articles/popup.css (from https://embed.typeform.com/next/embed.js)
+19:43:22	Error: 	"Not Found" (404) at link https://thefishsite.com/articles/sidetab.css (from https://embed.typeform.com/next/embed.js)
+19:43:22	Error: 	"Not Found" (404) at link https://thefishsite.com/articles/slider.css (from https://embed.typeform.com/next/embed.js)
+19:43:22	Error: 	"Not Found" (404) at link https://thefishsite.com/articles/widget.css (from https://embed.typeform.com/next/embed.js)
+19:43:22	Error: 	"Not Found" (404) at link https://thefishsite.com/articles/i.FORM_BASE_URL (from https://embed.typeform.com/next/embed.js)
+19:43:22	Error: 	"Not Found" (404) at link https://thefishsite.com/articles/window.location.href (from https://embed.typeform.com/next/embed.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 23 seconds : 57 links scanned, 41 files written (1333421 bytes overall) [1172485 bytes received at 5775 bytes/sec], 574977 bytes transferred using HTTP compression in 14 files, ratio 22%, 3.6 requests per connection
+(15 errors, 0 warnings, 0 messages)
